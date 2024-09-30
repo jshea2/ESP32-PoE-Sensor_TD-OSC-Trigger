@@ -39,3 +39,7 @@ Features:
 - Feilds to edit ping and sensor trigger OSC address
 - OSC Out Client configure
   - IP, Port, OSC Address & Argument
+
+## Credits:
+
+Original project is by [Facing Tomorrow](https://github.com/facingtomorrow). This repository added OSC support and other TD UI components.
