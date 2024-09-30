@@ -3,7 +3,11 @@
 
 Use ESP32-PoE with sensor to send OSC filtered by Touchdesigner.
 
-https://github.com/user-attachments/assets/93a61eb2-cb9a-4f0a-9d0c-53f0e3ab7c55
+
+
+https://github.com/user-attachments/assets/ff4cd534-56c4-4b7e-a54d-fffd37521076
+
+
 
 
 ## Hardware Requirements:
